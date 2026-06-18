@@ -193,7 +193,7 @@ House-Price-Prediction/
 **Gulshan Kumar**
 
 B.Tech Electrical Engineering  
-National Institute of Technology, Jalandhar
+Dr B R Ambedkar National Institute of Technology Jalandhar
 
 GitHub: https://github.com/Gulshan-heap
 
